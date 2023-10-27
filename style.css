@@ -1,0 +1,77 @@
+/* a todos les coloca este tipo de letra utilizando "*" */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    background-color: #ffb3c6;
+    color:#ffbdd7;
+}
+
+p{
+    color: #fbeff4;
+    font-family: 'Gabarito', sans-serif;
+}
+
+h3{
+    color: #fbeff4;
+}
+
+
+/* para las clases se utliza .  */
+.titulo1{
+    color: #fbeff4;
+}
+
+header {
+    background-image: url("https://pbs.twimg.com/media/Ei_F7l6WsAI2qfi.jpg");
+    background-color: rgba(255, 255, 255, 0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+}
+
+main{
+    background-image: url("https://wallpapercosmos.com/w/full/f/1/a/182205-3840x2160-desktop-4k-blackpink-background-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    color: #ef476f;
+    font-family: 'Gabarito', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+/* para id se coloca # */
+#lista-desordenada{
+    color: #ffbdd7;
+}
+
+img{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+/* Opacidad de una imagen */
+    opacity: 0.9;
+    
+}
+
+h2{
+    color:antiquewhite;
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    color: azure;
+}
+h5{
+    color: #fbeff4;
+}
